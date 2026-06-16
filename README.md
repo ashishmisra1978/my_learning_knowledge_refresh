@@ -1,2 +1,2 @@
-# ADK_Proj
-For ADK project development
+# my_learning_knowledge_refresh
+For my_learning_knowledge_refresh
